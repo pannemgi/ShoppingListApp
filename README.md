@@ -24,8 +24,8 @@ https://mailuc-my.sharepoint.com/:v:/g/personal/pannemgi_mail_uc_edu/EfgaW826Co1
 
 # App Images
 ![App Screenshots](.expo/AppScreenshots/AppScreenshot1.png)
-![App Screenshots](./AppScreenshots/AppScreenshot2.png)
-![App Screenshots](./AppScreenshots/AppScreenshot3.png)
+![App Screenshots](.expo/AppScreenshots/AppScreenshot2.png)
+![App Screenshots](.expo/AppScreenshots/AppScreenshot3.png)
 
 # Getting Started
 
