@@ -23,9 +23,9 @@ List Management
 https://mailuc-my.sharepoint.com/:v:/g/personal/pannemgi_mail_uc_edu/EfgaW826Co1Ftq9BZfgnrGgBrYThl2q2Souljyk2dlADEQ?e=8BQ1Jo
 
 # App Images
-![App Screenshots](./AppScreenshots/AppScreenshot1.png)
-![App Screenshots](./AppScreenshots/AppScreenshot2.png)
-![App Screenshots](./AppScreenshots/AppScreenshot3.png)
+![App Screenshots](.expo/AppScreenshots/AppScreenshot1.png)
+![App Screenshots](.expo/AppScreenshots/AppScreenshot2.png)
+![App Screenshots](.expo/AppScreenshots/AppScreenshot3.png)
 
 # Getting Started
 
